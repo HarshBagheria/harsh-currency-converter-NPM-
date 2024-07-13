@@ -1,0 +1,26 @@
+{
+  "name": "harsh-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshBagheria/harsh-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Harsh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HarshBagheria/harsh-currency-converter/issues"
+  },
+  "homepage": "https://github.com/HarshBagheria/harsh-currency-converter#readme",
+  "dependencies": {
+    "@everapi/currencyapi-js": "^1.0.6"
+  }
+}
